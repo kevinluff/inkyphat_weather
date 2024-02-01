@@ -19,11 +19,11 @@ inky_display.h_flip = True
 inky_display.v_flip = True
 
 # set lat/long for location and units
-lat = 55.7132
-lon = -3.2041
+lat = 54.17887784286134 
+lon = -4.476164772039844
 
 # set OpenWeather API Key
-APIKEY = '76b2e43df6c0a01472a0547298c8fbc4'
+APIKEY = '5651a9c188d89f817f865b6e4641ec4e'
 
 ##request data from OpenWeather 'One Call' API
 url = (
